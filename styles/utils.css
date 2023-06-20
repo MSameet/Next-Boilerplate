@@ -308,19 +308,19 @@
   word-break: break-word;
 }
 /* positions */
-.position-static {
+.static {
   position: static;
 }
-.position-relative {
+.relative {
   position: relative;
 }
-.position-absolute {
+.absolute {
   position: absolute;
 }
-.position-sticky {
+.sticky {
   position: sticky;
 }
-.position-fixed {
+.fixed {
   position: fixed;
 }
 /*  Small devices (landscape phones, 576px and up) */
@@ -635,19 +635,19 @@
     word-break: break-word;
   }
   /* positions */
-  .position-sm-static {
+  .sm-static {
     position: static;
   }
-  .position-sm-relative {
+  .sm-relative {
     position: relative;
   }
-  .position-sm-absolute {
+  .sm-absolute {
     position: absolute;
   }
-  .position-sm-sticky {
+  .sm-sticky {
     position: sticky;
   }
-  .position-sm-fixed {
+  .sm-fixed {
     position: fixed;
   }
 }
@@ -963,19 +963,19 @@
     word-break: break-word;
   }
   /* positions */
-  .position-md-static {
+  .md-static {
     position: static;
   }
-  .position-md-relative {
+  .md-relative {
     position: relative;
   }
-  .position-md-absolute {
+  .md-absolute {
     position: absolute;
   }
-  .position-md-sticky {
+  .md-sticky {
     position: sticky;
   }
-  .position-lg-fixed {
+  .lg-fixed {
     position: fixed;
   }
 }
@@ -1291,19 +1291,19 @@
     word-break: break-word;
   }
   /* positions */
-  .position-lg-static {
+  .lg-static {
     position: static;
   }
-  .position-lg-relative {
+  .lg-relative {
     position: relative;
   }
-  .position-lg-absolute {
+  .lg-absolute {
     position: absolute;
   }
-  .position-lg-sticky {
+  .lg-sticky {
     position: sticky;
   }
-  .position-lg-fixed {
+  .lg-fixed {
     position: fixed;
   }
 }
@@ -1618,19 +1618,19 @@
     word-break: break-word;
   }
   /* positions */
-  .position-xl-static {
+  .xl-static {
     position: static;
   }
-  .position-xl-relative {
+  .xl-relative {
     position: relative;
   }
-  .position-xl-absolute {
+  .xl-absolute {
     position: absolute;
   }
-  .position-xl-sticky {
+  .xl-sticky {
     position: sticky;
   }
-  .position-xl-fixed {
+  .xl-fixed {
     position: fixed;
   }
 }
@@ -1945,19 +1945,19 @@
     word-break: break-word;
   }
   /* positions */
-  .position-xxl-static {
+  .xxl-static {
     position: static;
   }
-  .position-xxl-relative {
+  .xxl-relative {
     position: relative;
   }
-  .position-xxl-absolute {
+  .xxl-absolute {
     position: absolute;
   }
-  .position-xxl-sticky {
+  .xxl-sticky {
     position: sticky;
   }
-  .position-xxl-fixed {
+  .xxl-fixed {
     position: fixed;
   }
 }
