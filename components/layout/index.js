@@ -1,8 +1,8 @@
 import React from "react";
-import { Footer } from "../base/footer";
-import { Header } from "../base/header";
+import Footer from "../base/footer";
+import Header from "../base/header";
 
-const index = (children) => {
+const Index = ({ children }) => {
   return (
     <>
       <Header />
@@ -12,4 +12,4 @@ const index = (children) => {
   );
 };
 
-export default index;
+export default Index;
